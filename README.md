@@ -1,6 +1,12 @@
 # M5StickC_MechanumCar
 M5StickC Easy Mechanum Wheel controller
 
+<img width="1776" alt="over view" src="https://user-images.githubusercontent.com/52347942/131996220-383bbee7-ef68-42dd-9b68-57af712bb7aa.png">
+
+# Features
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BKFsxIaVx48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 # システム構成
 ## Atmega328（メカナムホイール車体）
@@ -17,4 +23,5 @@ M5StickC Easy Mechanum Wheel controller
 ## M5Stick CPlus（コントローラ）
 * ジョイスティックと２種類のボタンによるコマンド入力
 * ESP-NOWによりM5Stick Cに前後左右、回転など10種類のコマンドを送信
+
 
